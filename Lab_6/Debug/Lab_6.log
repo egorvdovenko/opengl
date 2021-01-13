@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\OpenGL\Lab_6\Source.cpp(51,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\OpenGL\Lab_6\Source.cpp(58,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(61,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(64,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(67,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(80,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(80,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(82,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(82,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(94,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(94,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(96,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OpenGL\Lab_6\Source.cpp(96,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Lab_6.vcxproj -> C:\OpenGL\Debug\Lab_6.exe

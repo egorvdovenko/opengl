@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\OpenGL\Lab_4\Source.cpp(14,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\OpenGL\Lab_4\Source.cpp(23,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL\Lab_4\Source.cpp(83,17): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab_4.vcxproj -> C:\OpenGL\Debug\Lab_4.exe
