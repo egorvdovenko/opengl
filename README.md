@@ -1,1 +1,2 @@
 # opengl
+For educational purposes
